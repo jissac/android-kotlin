@@ -10,3 +10,8 @@ android apps
 
 ### Kotlin gradle related, java reference
 - https://stackoverflow.com/questions/44644524/kotlin-version-that-is-used-for-building-with-gradle-1-1-2-5-differs-from-the
+
+### BLE
+- https://developer.android.com/guide/topics/connectivity/bluetooth-le
+- https://medium.com/@ZoeWave/kotlin-beautiful-low-energy-ble-91db3c0ab887
+- 
