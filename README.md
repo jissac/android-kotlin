@@ -1,7 +1,8 @@
 # android-kotlin
 android apps
 
-
+### Splash screen
+- https://levelup.gitconnected.com/a-tutorial-on-building-a-splash-screen-with-kotlin-in-android-studio-dc647cd52f9b
 ### Github branch related Android Studio
 - https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 - https://www.thedroidsonroids.com/blog/android-studio-and-git-branches-how-to-simplify-you-work
