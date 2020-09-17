@@ -22,3 +22,7 @@ undo changes to a single file in a branch:
 
 rename a local branch 
 - https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch
+
+merge 
+- https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+- https://stackoverflow.com/questions/47689772/merging-my-local-branch-with-remote-master
