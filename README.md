@@ -15,4 +15,7 @@ android apps
 ### BLE
 - https://developer.android.com/guide/topics/connectivity/bluetooth-le
 - https://medium.com/@ZoeWave/kotlin-beautiful-low-energy-ble-91db3c0ab887
-- 
+
+### Git
+undo changes to a single file in a branch:
+- https://stackoverflow.com/questions/692246/undo-working-copy-modifications-of-one-file-in-git
