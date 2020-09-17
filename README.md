@@ -19,3 +19,6 @@ android apps
 ### Git
 undo changes to a single file in a branch:
 - https://stackoverflow.com/questions/692246/undo-working-copy-modifications-of-one-file-in-git
+
+rename a local branch 
+- https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch
